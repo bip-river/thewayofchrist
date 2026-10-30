@@ -38,3 +38,17 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Third-Party Material
+
+The following are not covered by the licenses above.
+
+**Fonts.** `index.html` embeds subsets of Source Serif 4 and Source
+Sans 3, copyright Adobe, with Reserved Font Name 'Source'. They are
+licensed under the **SIL Open Font License, Version 1.1**; the full
+license and copyright notices are in [OFL.txt](OFL.txt).
+
+**Scripture.** Scripture quotations are from the King James Version
+(Authorized Version) of the Bible, which is in the public domain in
+most of the world. In the United Kingdom, rights in the Authorized
+Version are vested in the Crown.
